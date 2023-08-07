@@ -11,6 +11,9 @@
 4. Instalar
 [Composer](https://getcomposer.org/download/)
 
+5. Descargar e Instalar
+[Git](https://git-scm.com/downloads)
+
 ## Fuente
 [Fira Code](https://github.com/tonsky/FiraCode)
 
@@ -33,4 +36,14 @@
 
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
+## Configuración de GIT por primera vez
+Establecer tu nombre de usuario y dirección de correo electrónico.
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
 
+Comprobar tu configuración
+```
+$ git config --list
+```
