@@ -19,10 +19,6 @@
 
 [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 
-[Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-
-[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
@@ -30,4 +26,11 @@
 [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+## Temas que estoy usando en VSCode
+
+[Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
 
